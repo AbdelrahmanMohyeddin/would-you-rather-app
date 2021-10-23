@@ -1,0 +1,19 @@
+
+.login-form{
+    margin-top: 10px;
+  }
+  
+  .login-form .form-title{
+    background-color: #f3f4f5;
+    padding: 4px;
+  }
+  
+  .login-form-content{
+    margin: auto;
+    border: 1px solid rgba(34,36,38,.15);
+    border-radius: 5px;
+  }
+  
+  .login-form-content img{
+    width: 50%;
+  }
